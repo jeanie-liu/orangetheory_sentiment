@@ -12,3 +12,12 @@ The analyzed data was visualized using Tableau, presenting percentages of custom
 #### Recommendations and Presentations:
 Based on the insights uncovered, I crafted data-driven recommendations aimed at refining class structure, enriching course content, and optimizing metric tracking methodologies. Qualitative feedback, data visualizations, and actionable recommendations were consolidated into a comprehensive slide deck and delivered to the project supervisor. The goal was to catalyze positive change and elevate customer satisfaction through informed decision-making.
 
+## Installation and Setup
+### Prerequisites
+* **Python** 3.8 or higher.
+* **Anaconda**. [Download Anaconda](https://www.anaconda.com/download). This project uses several packages that are conveniently available through Anaconda. Alternatively, you can use pip to install the necessary packages.
+* **Jupyter Notebook** for running .ipynb files. It comes pre-installed with Anaconda, or you can install it separately if using pip:
+  ```bash
+  pip install notebook
+  ```
+* 
