@@ -30,4 +30,26 @@ Based on the insights uncovered, I crafted data-driven recommendations aimed at 
   * datetime: a built-in module for working with dates and times.
   * codecs: provides functions for encoding and decoding data streams.
   * os: provides functions for interacting with the operating system.
-  * dotenv: for loading environment variables from a .env file into Python script. 
+  * dotenv: for loading environment variables from a .env file into Python script.
+ 
+* **Setting Up a Virtual Environment (Optional but Recommended)**
+  * To prevent potential conflicts with other Python projects or system-wide packages, consider using a virtual environment.
+    * With Anaconda, create a new environment like this:
+      ```bash
+      conda create -n myenv python=3.8
+      conda activate myenv
+      ```
+    * Install the necessary packages in this environment.
+   
+### Cloning the Repository
+To get started with the project, you first need to clone the repository to your local machine. Follow these steps:
+1. **Open Your Terminal or Command Line:** This can be the Terminal app on macOS or Linux, Command Prompt or PowerShell on Windows, or any other terminal application you prefer.
+2. **Clone the Repository:** Run the following command.
+   ```bash
+   git clone https://github.com/jeanie-liu/orangetheory_sentiment.git
+   ```
+3. **Navigate to the Project Directory:** After cloning, move into the project directory with this command:
+   ```bash
+   cd orangetheory_sentiment
+   ```
+Once the repository is cloned, follow the instructions in the prerequisites section to install the necessary project dependencies.
