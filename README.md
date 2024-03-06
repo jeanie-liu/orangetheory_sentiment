@@ -68,4 +68,9 @@ This project consists of:
    - to view the individual data visualizations, open `otf_customer_sentiment.twb` in Tableau. 
 
 
+## Credits and Contact
+
+This project was developed by Jeanie Liu. For any queries regarding this project, please contact Jeanie Liu at hjeanieliu@gmail.com.
+
+This project is no longer actively maintained. The repository serves as an archive of the work done and the findings of the analysis.
 
