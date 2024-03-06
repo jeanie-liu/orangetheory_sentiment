@@ -20,4 +20,14 @@ Based on the insights uncovered, I crafted data-driven recommendations aimed at 
   ```bash
   pip install notebook
   ```
-* 
+* **Required Python Packages**:
+  * praw: a Python API for interacting with the Reddit API
+  * time: a built-in Python module that provides various time-related functions.
+  * json: for encoding and decoding JSON data.
+  * requests: for making HTTP requests.
+  * csv: for reading and writing CSV files.
+  * pandas: data structures and data analysis tools.
+  * datetime: a built-in module for working with dates and times.
+  * codecs: provides functions for encoding and decoding data streams.
+  * os: provides functions for interacting with the operating system.
+  * dotenv: for loading environment variables from a .env file into Python script. 
