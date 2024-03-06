@@ -53,3 +53,19 @@ To get started with the project, you first need to clone the repository to your 
    cd orangetheory_sentiment
    ```
 Once the repository is cloned, follow the instructions in the prerequisites section to install the necessary project dependencies.
+
+## Usage
+
+This project consists of:
+
+1. **Presentation (`OTF Social Media Listening Presentation.pptx`):**
+  - To view all data-driven insights, data visualizations, and actionable recommendations, open `OTF Social Media Listening Presentation.pptx` in PowerPoint.
+3. **Analysis (`otf_customer_sentiment.ipynb`):**
+   - To view the raw code and output for analyzing Reddit posts, open `otf_customer_sentiment.ipynb` in Jupyter Notebook or JupyterLab.
+4. **Output for Analyzed Reddit Posts (`otf_reddit.csv`):**
+   - to view the specific Reddit posts, comments, and replies analyzed with ChatGPT API, open the file `otf_reddit.csv`.
+5. **Data Visualizations (`otf_customer_sentiment.twb`):**
+   - to view the individual data visualizations, open `otf_customer_sentiment.twb` in Tableau. 
+
+
+
